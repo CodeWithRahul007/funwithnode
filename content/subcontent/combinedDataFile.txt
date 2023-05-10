@@ -1,0 +1,2 @@
+Combined content is : This is first text file.
+, Hey this is second text file.
